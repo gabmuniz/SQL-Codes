@@ -16,4 +16,4 @@ Aqui você poderá achar exemplos de códigos SQL onde se é utilizado:
 - merge
 - rlike
 - group by
-- concat
+- concat e outros.
